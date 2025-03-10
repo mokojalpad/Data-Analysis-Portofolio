@@ -1,0 +1,501 @@
+Order_ID,Date,Product,Category,Price,Quantity,Customer_Location,Payment_Method
+1001,2024-01-01,Tablet,Accessories,4380993,4,Medan,Bank Transfer
+1002,2024-01-02,Smartwatch,Accessories,13620110,2,Yogyakarta,E-Wallet
+1003,2024-01-03,Headphones,Accessories,14467111,2,Jakarta,E-Wallet
+1004,2024-01-04,Smartwatch,Electronics,3068103,1,Yogyakarta,E-Wallet
+1005,2024-01-05,Smartwatch,Accessories,8969872,1,Bandung,E-Wallet
+1006,2024-01-06,Smartphone,Electronics,8911883,4,Surabaya,Credit Card
+1007,2024-01-07,Headphones,Electronics,11582322,1,Bandung,E-Wallet
+1008,2024-01-08,Headphones,Electronics,16703305,1,Medan,Debit Card
+1009,2024-01-09,Headphones,Electronics,11348680,2,Yogyakarta,Debit Card
+1010,2024-01-10,Smartwatch,Accessories,6982532,3,Yogyakarta,Credit Card
+1011,2024-01-11,Tablet,Accessories,16422693,1,Yogyakarta,Debit Card
+1012,2024-01-12,Headphones,Electronics,5696467,3,Bandung,Debit Card
+1013,2024-01-13,Smartwatch,Electronics,2500609,1,Medan,E-Wallet
+1014,2024-01-14,Smartphone,Electronics,9801434,1,Surabaya,Debit Card
+1015,2024-01-15,Tablet,Accessories,19974359,4,Surabaya,Credit Card
+1016,2024-01-16,Smartphone,Electronics,9692300,4,Bandung,E-Wallet
+1017,2024-01-17,Tablet,Electronics,10049765,4,Yogyakarta,Bank Transfer
+1018,2024-01-18,Smartwatch,Accessories,18591748,3,Jakarta,E-Wallet
+1019,2024-01-19,Laptop,Accessories,17698456,2,Bandung,Credit Card
+1020,2024-01-20,Tablet,Electronics,12748352,1,Bandung,E-Wallet
+1021,2024-01-21,Smartphone,Accessories,1444789,1,Medan,E-Wallet
+1022,2024-01-22,Smartwatch,Accessories,19490789,1,Surabaya,Credit Card
+1023,2024-01-23,Tablet,Electronics,16693014,3,Bandung,E-Wallet
+1024,2024-01-24,Laptop,Accessories,15252367,4,Bandung,Credit Card
+1025,2024-01-25,Laptop,Electronics,19532579,2,Yogyakarta,Credit Card
+1026,2024-01-26,Headphones,Accessories,8875741,3,Yogyakarta,Bank Transfer
+1027,2024-01-27,Headphones,Electronics,17014877,4,Jakarta,Debit Card
+1028,2024-01-28,Smartphone,Electronics,5556861,3,Medan,Debit Card
+1029,2024-01-29,Tablet,Electronics,6936446,2,Jakarta,E-Wallet
+1030,2024-01-30,Tablet,Accessories,4648887,4,Yogyakarta,E-Wallet
+1031,2024-01-31,Headphones,Electronics,9557014,3,Surabaya,Bank Transfer
+1032,2024-02-01,Tablet,Accessories,5112338,2,Yogyakarta,Bank Transfer
+1033,2024-02-02,Tablet,Electronics,11742014,1,Medan,Bank Transfer
+1034,2024-02-03,Laptop,Electronics,18310471,2,Yogyakarta,Credit Card
+1035,2024-02-04,Headphones,Accessories,7582212,1,Medan,Bank Transfer
+1036,2024-02-05,Smartwatch,Electronics,11941374,3,Medan,Bank Transfer
+1037,2024-02-06,Headphones,Electronics,3594235,4,Medan,E-Wallet
+1038,2024-02-07,Smartwatch,Accessories,14815594,4,Medan,Bank Transfer
+1039,2024-02-08,Laptop,Electronics,887952,3,Medan,Credit Card
+1040,2024-02-09,Smartphone,Electronics,18307333,4,Surabaya,Credit Card
+1041,2024-02-10,Tablet,Electronics,2857821,4,Jakarta,E-Wallet
+1042,2024-02-11,Laptop,Electronics,9413742,1,Bandung,Bank Transfer
+1043,2024-02-12,Tablet,Accessories,16763882,3,Jakarta,Bank Transfer
+1044,2024-02-13,Smartphone,Accessories,6084263,2,Medan,Credit Card
+1045,2024-02-14,Smartphone,Electronics,744761,1,Surabaya,Bank Transfer
+1046,2024-02-15,Laptop,Accessories,11860428,3,Yogyakarta,Bank Transfer
+1047,2024-02-16,Smartphone,Electronics,17112651,1,Surabaya,Bank Transfer
+1048,2024-02-17,Smartwatch,Accessories,8886180,2,Medan,Debit Card
+1049,2024-02-18,Smartphone,Electronics,14960021,2,Surabaya,E-Wallet
+1050,2024-02-19,Tablet,Electronics,564323,3,Surabaya,Debit Card
+1051,2024-02-20,Tablet,Electronics,15796274,2,Medan,E-Wallet
+1052,2024-02-21,Tablet,Electronics,18514931,1,Surabaya,Credit Card
+1053,2024-02-22,Tablet,Electronics,8540979,2,Bandung,Bank Transfer
+1054,2024-02-23,Smartwatch,Electronics,1454480,1,Bandung,E-Wallet
+1055,2024-02-24,Headphones,Accessories,18131232,1,Surabaya,Debit Card
+1056,2024-02-25,Laptop,Electronics,5847417,2,Yogyakarta,Bank Transfer
+1057,2024-02-26,Tablet,Accessories,9753517,3,Medan,Credit Card
+1058,2024-02-27,Smartphone,Electronics,6309701,4,Bandung,E-Wallet
+1059,2024-02-28,Tablet,Accessories,13871172,2,Yogyakarta,E-Wallet
+1060,2024-02-29,Smartphone,Accessories,10493726,1,Surabaya,E-Wallet
+1061,2024-03-01,Smartphone,Accessories,1916012,1,Yogyakarta,Bank Transfer
+1062,2024-03-02,Tablet,Electronics,6252810,2,Jakarta,Debit Card
+1063,2024-03-03,Smartwatch,Electronics,1071650,3,Bandung,Debit Card
+1064,2024-03-04,Smartphone,Accessories,9274533,3,Surabaya,E-Wallet
+1065,2024-03-05,Smartphone,Electronics,3363793,1,Medan,Credit Card
+1066,2024-03-06,Tablet,Accessories,5409047,1,Surabaya,Credit Card
+1067,2024-03-07,Smartphone,Electronics,7381289,3,Medan,Debit Card
+1068,2024-03-08,Smartphone,Accessories,7922212,4,Surabaya,Credit Card
+1069,2024-03-09,Tablet,Accessories,4257974,2,Yogyakarta,Debit Card
+1070,2024-03-10,Tablet,Electronics,9291689,1,Yogyakarta,E-Wallet
+1071,2024-03-11,Laptop,Accessories,9267500,1,Yogyakarta,Debit Card
+1072,2024-03-12,Smartwatch,Electronics,8791923,3,Jakarta,Debit Card
+1073,2024-03-13,Smartwatch,Accessories,8296324,2,Medan,E-Wallet
+1074,2024-03-14,Smartphone,Accessories,12143208,3,Yogyakarta,Credit Card
+1075,2024-03-15,Smartwatch,Electronics,10873904,2,Jakarta,Debit Card
+1076,2024-03-16,Smartphone,Electronics,8612074,2,Medan,Debit Card
+1077,2024-03-17,Laptop,Electronics,19467438,2,Surabaya,E-Wallet
+1078,2024-03-18,Tablet,Accessories,12638391,1,Jakarta,Credit Card
+1079,2024-03-19,Tablet,Electronics,19996485,4,Bandung,Debit Card
+1080,2024-03-20,Tablet,Accessories,11213405,3,Jakarta,E-Wallet
+1081,2024-03-21,Smartwatch,Accessories,16765147,4,Jakarta,Debit Card
+1082,2024-03-22,Laptop,Electronics,18063883,3,Medan,Bank Transfer
+1083,2024-03-23,Smartwatch,Electronics,10242257,2,Surabaya,E-Wallet
+1084,2024-03-24,Smartwatch,Accessories,14461076,1,Bandung,Credit Card
+1085,2024-03-25,Laptop,Accessories,18989719,4,Yogyakarta,Credit Card
+1086,2024-03-26,Laptop,Electronics,4109736,1,Yogyakarta,Credit Card
+1087,2024-03-27,Laptop,Electronics,8560833,3,Jakarta,Credit Card
+1088,2024-03-28,Laptop,Electronics,7138155,1,Medan,Debit Card
+1089,2024-03-29,Tablet,Electronics,18661634,1,Medan,Debit Card
+1090,2024-03-30,Headphones,Electronics,17663810,4,Yogyakarta,Credit Card
+1091,2024-03-31,Headphones,Accessories,12725855,2,Bandung,Credit Card
+1092,2024-04-01,Laptop,Accessories,18369717,1,Surabaya,Credit Card
+1093,2024-04-02,Headphones,Accessories,5738331,2,Bandung,Debit Card
+1094,2024-04-03,Headphones,Accessories,1635964,3,Surabaya,Credit Card
+1095,2024-04-04,Laptop,Electronics,2655748,1,Yogyakarta,Credit Card
+1096,2024-04-05,Headphones,Electronics,11933787,4,Surabaya,Bank Transfer
+1097,2024-04-06,Smartwatch,Electronics,1373172,3,Medan,Bank Transfer
+1098,2024-04-07,Smartphone,Accessories,9410852,3,Jakarta,Credit Card
+1099,2024-04-08,Smartphone,Accessories,6155378,4,Jakarta,E-Wallet
+1100,2024-04-09,Laptop,Electronics,5373594,1,Yogyakarta,Credit Card
+1101,2024-04-10,Tablet,Electronics,4563309,1,Medan,Bank Transfer
+1102,2024-04-11,Laptop,Accessories,7441245,3,Bandung,E-Wallet
+1103,2024-04-12,Tablet,Accessories,16376696,1,Medan,E-Wallet
+1104,2024-04-13,Smartphone,Electronics,9951244,2,Jakarta,Credit Card
+1105,2024-04-14,Laptop,Electronics,10675529,4,Jakarta,Bank Transfer
+1106,2024-04-15,Smartwatch,Accessories,8317304,2,Medan,Bank Transfer
+1107,2024-04-16,Headphones,Electronics,14650033,1,Medan,E-Wallet
+1108,2024-04-17,Tablet,Electronics,18106951,3,Jakarta,Credit Card
+1109,2024-04-18,Headphones,Electronics,7521862,4,Bandung,Debit Card
+1110,2024-04-19,Headphones,Accessories,12718983,1,Yogyakarta,Debit Card
+1111,2024-04-20,Laptop,Accessories,8851245,1,Yogyakarta,Bank Transfer
+1112,2024-04-21,Headphones,Accessories,5782591,3,Medan,Debit Card
+1113,2024-04-22,Smartwatch,Accessories,7983058,3,Yogyakarta,Bank Transfer
+1114,2024-04-23,Headphones,Accessories,19839685,2,Jakarta,Bank Transfer
+1115,2024-04-24,Laptop,Accessories,3586176,4,Jakarta,Bank Transfer
+1116,2024-04-25,Smartwatch,Accessories,5845854,4,Medan,Debit Card
+1117,2024-04-26,Smartphone,Electronics,12183982,3,Medan,Bank Transfer
+1118,2024-04-27,Headphones,Electronics,16820656,2,Medan,E-Wallet
+1119,2024-04-28,Laptop,Electronics,5383680,4,Bandung,Credit Card
+1120,2024-04-29,Smartphone,Electronics,4181262,3,Yogyakarta,Credit Card
+1121,2024-04-30,Smartphone,Electronics,5133078,1,Medan,Bank Transfer
+1122,2024-05-01,Tablet,Electronics,3109089,4,Surabaya,Credit Card
+1123,2024-05-02,Smartwatch,Electronics,19785965,2,Surabaya,Debit Card
+1124,2024-05-03,Headphones,Accessories,18191444,2,Jakarta,Debit Card
+1125,2024-05-04,Laptop,Accessories,1453959,2,Yogyakarta,Credit Card
+1126,2024-05-05,Tablet,Electronics,11078023,1,Medan,Debit Card
+1127,2024-05-06,Smartwatch,Electronics,16764230,4,Surabaya,Credit Card
+1128,2024-05-07,Tablet,Accessories,8405477,4,Yogyakarta,Credit Card
+1129,2024-05-08,Smartwatch,Electronics,10516389,1,Jakarta,Credit Card
+1130,2024-05-09,Smartwatch,Electronics,12130982,4,Bandung,Bank Transfer
+1131,2024-05-10,Headphones,Accessories,17622482,1,Yogyakarta,Credit Card
+1132,2024-05-11,Smartwatch,Electronics,11960083,1,Yogyakarta,Bank Transfer
+1133,2024-05-12,Tablet,Accessories,16086926,1,Bandung,Credit Card
+1134,2024-05-13,Smartwatch,Electronics,12892092,2,Yogyakarta,Credit Card
+1135,2024-05-14,Headphones,Accessories,14399040,4,Jakarta,Credit Card
+1136,2024-05-15,Headphones,Accessories,9996563,1,Jakarta,Debit Card
+1137,2024-05-16,Tablet,Accessories,14534150,4,Bandung,Bank Transfer
+1138,2024-05-17,Smartphone,Electronics,12690618,2,Medan,Bank Transfer
+1139,2024-05-18,Smartphone,Accessories,14404421,1,Surabaya,Credit Card
+1140,2024-05-19,Smartwatch,Electronics,10821336,3,Medan,Credit Card
+1141,2024-05-20,Laptop,Electronics,17059100,2,Yogyakarta,Debit Card
+1142,2024-05-21,Smartwatch,Electronics,8053974,3,Surabaya,Debit Card
+1143,2024-05-22,Tablet,Electronics,11250240,4,Bandung,Debit Card
+1144,2024-05-23,Tablet,Accessories,10303005,4,Bandung,Bank Transfer
+1145,2024-05-24,Tablet,Accessories,6597091,2,Surabaya,Bank Transfer
+1146,2024-05-25,Tablet,Electronics,13928545,4,Jakarta,Bank Transfer
+1147,2024-05-26,Tablet,Electronics,8205092,3,Surabaya,Credit Card
+1148,2024-05-27,Headphones,Accessories,8083354,1,Yogyakarta,Bank Transfer
+1149,2024-05-28,Smartphone,Electronics,6313365,1,Jakarta,E-Wallet
+1150,2024-05-29,Tablet,Accessories,4557893,1,Bandung,E-Wallet
+1151,2024-05-30,Laptop,Electronics,5897662,2,Surabaya,Debit Card
+1152,2024-05-31,Laptop,Electronics,16913486,4,Medan,Bank Transfer
+1153,2024-06-01,Laptop,Accessories,12106243,3,Medan,E-Wallet
+1154,2024-06-02,Laptop,Electronics,17143948,4,Yogyakarta,Debit Card
+1155,2024-06-03,Headphones,Accessories,11188727,4,Medan,Bank Transfer
+1156,2024-06-04,Laptop,Electronics,10788051,4,Surabaya,Credit Card
+1157,2024-06-05,Tablet,Electronics,10328366,1,Surabaya,E-Wallet
+1158,2024-06-06,Smartwatch,Electronics,2305468,3,Medan,Credit Card
+1159,2024-06-07,Laptop,Accessories,3927975,3,Surabaya,Bank Transfer
+1160,2024-06-08,Headphones,Electronics,6856228,4,Yogyakarta,E-Wallet
+1161,2024-06-09,Headphones,Electronics,9014716,1,Jakarta,Bank Transfer
+1162,2024-06-10,Laptop,Electronics,12048718,1,Yogyakarta,Credit Card
+1163,2024-06-11,Smartwatch,Electronics,12118627,3,Yogyakarta,E-Wallet
+1164,2024-06-12,Laptop,Accessories,15543403,1,Surabaya,Credit Card
+1165,2024-06-13,Headphones,Accessories,6025633,1,Jakarta,Bank Transfer
+1166,2024-06-14,Smartphone,Electronics,19357370,1,Surabaya,Bank Transfer
+1167,2024-06-15,Tablet,Accessories,2744702,2,Bandung,Credit Card
+1168,2024-06-16,Headphones,Electronics,13420739,4,Surabaya,E-Wallet
+1169,2024-06-17,Laptop,Electronics,16227907,3,Surabaya,Credit Card
+1170,2024-06-18,Tablet,Electronics,8226890,3,Surabaya,Bank Transfer
+1171,2024-06-19,Laptop,Accessories,8857956,2,Jakarta,Credit Card
+1172,2024-06-20,Laptop,Accessories,8704298,4,Surabaya,Bank Transfer
+1173,2024-06-21,Smartphone,Accessories,9951337,3,Jakarta,Credit Card
+1174,2024-06-22,Tablet,Accessories,3886501,1,Medan,E-Wallet
+1175,2024-06-23,Tablet,Accessories,10867687,3,Bandung,E-Wallet
+1176,2024-06-24,Smartphone,Accessories,7895350,1,Jakarta,Credit Card
+1177,2024-06-25,Headphones,Accessories,5088334,2,Medan,Credit Card
+1178,2024-06-26,Laptop,Accessories,8964685,1,Jakarta,E-Wallet
+1179,2024-06-27,Smartwatch,Accessories,1755564,3,Jakarta,Bank Transfer
+1180,2024-06-28,Laptop,Electronics,9430264,3,Bandung,E-Wallet
+1181,2024-06-29,Laptop,Accessories,11173774,3,Yogyakarta,Bank Transfer
+1182,2024-06-30,Headphones,Accessories,10940139,2,Yogyakarta,Credit Card
+1183,2024-07-01,Laptop,Accessories,3292427,2,Jakarta,Credit Card
+1184,2024-07-02,Smartphone,Accessories,11809411,4,Surabaya,Bank Transfer
+1185,2024-07-03,Smartphone,Accessories,6248035,3,Medan,Credit Card
+1186,2024-07-04,Tablet,Accessories,4890020,1,Surabaya,Bank Transfer
+1187,2024-07-05,Smartwatch,Accessories,3181719,2,Surabaya,Debit Card
+1188,2024-07-06,Laptop,Accessories,18167911,3,Jakarta,E-Wallet
+1189,2024-07-07,Laptop,Accessories,13083038,3,Jakarta,Debit Card
+1190,2024-07-08,Headphones,Accessories,18115977,2,Jakarta,Bank Transfer
+1191,2024-07-09,Smartphone,Accessories,10188053,4,Jakarta,E-Wallet
+1192,2024-07-10,Smartwatch,Electronics,9387324,2,Yogyakarta,Bank Transfer
+1193,2024-07-11,Tablet,Electronics,12029677,2,Jakarta,E-Wallet
+1194,2024-07-12,Smartphone,Accessories,19836488,1,Yogyakarta,E-Wallet
+1195,2024-07-13,Tablet,Accessories,16363509,1,Yogyakarta,E-Wallet
+1196,2024-07-14,Headphones,Electronics,19553322,4,Jakarta,E-Wallet
+1197,2024-07-15,Headphones,Accessories,17091661,3,Bandung,Bank Transfer
+1198,2024-07-16,Laptop,Electronics,7075716,2,Medan,E-Wallet
+1199,2024-07-17,Smartwatch,Electronics,2502324,4,Surabaya,E-Wallet
+1200,2024-07-18,Tablet,Electronics,6762105,1,Yogyakarta,Debit Card
+1201,2024-07-19,Smartphone,Electronics,13215629,2,Medan,Credit Card
+1202,2024-07-20,Headphones,Electronics,7171318,3,Bandung,Credit Card
+1203,2024-07-21,Laptop,Accessories,17771808,1,Surabaya,Debit Card
+1204,2024-07-22,Laptop,Electronics,12134494,1,Surabaya,Debit Card
+1205,2024-07-23,Tablet,Accessories,14299990,1,Yogyakarta,Bank Transfer
+1206,2024-07-24,Headphones,Accessories,4078226,4,Jakarta,Bank Transfer
+1207,2024-07-25,Smartwatch,Electronics,2927540,3,Bandung,Bank Transfer
+1208,2024-07-26,Headphones,Electronics,18992846,2,Yogyakarta,Debit Card
+1209,2024-07-27,Tablet,Accessories,818408,4,Bandung,Debit Card
+1210,2024-07-28,Tablet,Electronics,9356884,4,Jakarta,E-Wallet
+1211,2024-07-29,Headphones,Electronics,11043305,4,Jakarta,Bank Transfer
+1212,2024-07-30,Tablet,Accessories,9772985,1,Yogyakarta,Bank Transfer
+1213,2024-07-31,Headphones,Accessories,2398739,3,Jakarta,Bank Transfer
+1214,2024-08-01,Smartphone,Electronics,18294649,4,Medan,Credit Card
+1215,2024-08-02,Headphones,Accessories,5161029,2,Surabaya,E-Wallet
+1216,2024-08-03,Headphones,Electronics,11649697,3,Yogyakarta,Bank Transfer
+1217,2024-08-04,Tablet,Electronics,14257649,2,Bandung,Bank Transfer
+1218,2024-08-05,Tablet,Electronics,18858746,3,Medan,Bank Transfer
+1219,2024-08-06,Laptop,Accessories,13927105,2,Yogyakarta,Credit Card
+1220,2024-08-07,Laptop,Accessories,19364474,1,Jakarta,Credit Card
+1221,2024-08-08,Smartphone,Accessories,5356447,4,Jakarta,Debit Card
+1222,2024-08-09,Laptop,Accessories,7357658,2,Jakarta,E-Wallet
+1223,2024-08-10,Headphones,Accessories,1496530,3,Jakarta,Debit Card
+1224,2024-08-11,Tablet,Electronics,19878839,4,Bandung,E-Wallet
+1225,2024-08-12,Laptop,Electronics,6731219,4,Medan,Credit Card
+1226,2024-08-13,Laptop,Electronics,11792148,3,Surabaya,Bank Transfer
+1227,2024-08-14,Smartphone,Electronics,3864695,2,Bandung,Debit Card
+1228,2024-08-15,Smartphone,Accessories,13466064,1,Bandung,Bank Transfer
+1229,2024-08-16,Headphones,Electronics,11080030,1,Surabaya,Debit Card
+1230,2024-08-17,Tablet,Accessories,18322698,2,Surabaya,Credit Card
+1231,2024-08-18,Smartphone,Electronics,6286265,4,Jakarta,Credit Card
+1232,2024-08-19,Laptop,Accessories,7987345,4,Bandung,Credit Card
+1233,2024-08-20,Tablet,Accessories,1070451,4,Yogyakarta,Debit Card
+1234,2024-08-21,Tablet,Electronics,1467344,4,Surabaya,E-Wallet
+1235,2024-08-22,Laptop,Electronics,11743667,2,Surabaya,Debit Card
+1236,2024-08-23,Smartphone,Electronics,2912149,4,Medan,E-Wallet
+1237,2024-08-24,Laptop,Electronics,5898869,3,Yogyakarta,Debit Card
+1238,2024-08-25,Tablet,Accessories,16905566,4,Yogyakarta,Debit Card
+1239,2024-08-26,Smartwatch,Electronics,9927504,1,Surabaya,Credit Card
+1240,2024-08-27,Smartwatch,Electronics,12186214,4,Jakarta,Bank Transfer
+1241,2024-08-28,Headphones,Accessories,7522336,2,Medan,Bank Transfer
+1242,2024-08-29,Laptop,Electronics,12985559,1,Yogyakarta,E-Wallet
+1243,2024-08-30,Laptop,Electronics,9152831,2,Surabaya,Bank Transfer
+1244,2024-08-31,Headphones,Electronics,14191164,2,Yogyakarta,Debit Card
+1245,2024-09-01,Headphones,Electronics,12207868,1,Medan,Debit Card
+1246,2024-09-02,Headphones,Electronics,14746173,2,Medan,Credit Card
+1247,2024-09-03,Tablet,Accessories,3194287,2,Bandung,Credit Card
+1248,2024-09-04,Laptop,Electronics,10555079,4,Surabaya,Bank Transfer
+1249,2024-09-05,Tablet,Electronics,7011634,3,Medan,E-Wallet
+1250,2024-09-06,Headphones,Electronics,14281009,2,Bandung,Bank Transfer
+1251,2024-09-07,Laptop,Electronics,9476973,2,Bandung,Bank Transfer
+1252,2024-09-08,Tablet,Electronics,13907602,2,Yogyakarta,Bank Transfer
+1253,2024-09-09,Tablet,Accessories,1203662,4,Yogyakarta,Bank Transfer
+1254,2024-09-10,Headphones,Electronics,18582801,3,Bandung,Debit Card
+1255,2024-09-11,Laptop,Accessories,4592097,1,Yogyakarta,E-Wallet
+1256,2024-09-12,Headphones,Accessories,14269205,4,Medan,Debit Card
+1257,2024-09-13,Laptop,Electronics,14513403,4,Jakarta,E-Wallet
+1258,2024-09-14,Smartwatch,Electronics,19936656,3,Medan,Credit Card
+1259,2024-09-15,Smartphone,Electronics,10488209,3,Bandung,Bank Transfer
+1260,2024-09-16,Smartphone,Electronics,6594467,4,Bandung,Debit Card
+1261,2024-09-17,Smartphone,Accessories,10123424,1,Medan,E-Wallet
+1262,2024-09-18,Headphones,Electronics,10853564,4,Yogyakarta,Credit Card
+1263,2024-09-19,Smartwatch,Electronics,3948678,3,Yogyakarta,Credit Card
+1264,2024-09-20,Laptop,Electronics,14442402,1,Bandung,Bank Transfer
+1265,2024-09-21,Tablet,Electronics,14993549,3,Surabaya,E-Wallet
+1266,2024-09-22,Laptop,Electronics,13990337,1,Yogyakarta,Debit Card
+1267,2024-09-23,Tablet,Electronics,11169435,2,Medan,Bank Transfer
+1268,2024-09-24,Laptop,Accessories,17142016,3,Yogyakarta,Debit Card
+1269,2024-09-25,Smartwatch,Accessories,8870262,3,Medan,Credit Card
+1270,2024-09-26,Tablet,Electronics,10674518,4,Bandung,Debit Card
+1271,2024-09-27,Headphones,Electronics,17041471,3,Yogyakarta,Debit Card
+1272,2024-09-28,Laptop,Electronics,11984508,3,Medan,Bank Transfer
+1273,2024-09-29,Laptop,Accessories,7949607,2,Bandung,Debit Card
+1274,2024-09-30,Tablet,Electronics,16213088,3,Surabaya,Bank Transfer
+1275,2024-10-01,Headphones,Accessories,14339094,2,Medan,Credit Card
+1276,2024-10-02,Headphones,Electronics,17201250,2,Surabaya,Bank Transfer
+1277,2024-10-03,Smartwatch,Electronics,19880183,2,Surabaya,Bank Transfer
+1278,2024-10-04,Headphones,Electronics,3938550,2,Jakarta,E-Wallet
+1279,2024-10-05,Headphones,Electronics,576218,1,Yogyakarta,Debit Card
+1280,2024-10-06,Headphones,Accessories,18047260,4,Medan,Credit Card
+1281,2024-10-07,Smartphone,Accessories,6079079,1,Surabaya,Bank Transfer
+1282,2024-10-08,Smartwatch,Electronics,11435349,3,Jakarta,Credit Card
+1283,2024-10-09,Laptop,Electronics,14818328,1,Bandung,E-Wallet
+1284,2024-10-10,Tablet,Accessories,13561358,1,Medan,Debit Card
+1285,2024-10-11,Laptop,Accessories,19005312,3,Surabaya,Bank Transfer
+1286,2024-10-12,Smartwatch,Accessories,9236347,3,Yogyakarta,Debit Card
+1287,2024-10-13,Tablet,Accessories,16854286,3,Jakarta,E-Wallet
+1288,2024-10-14,Smartwatch,Electronics,9360935,1,Surabaya,E-Wallet
+1289,2024-10-15,Headphones,Accessories,3194946,1,Yogyakarta,Credit Card
+1290,2024-10-16,Tablet,Electronics,4729215,3,Surabaya,Bank Transfer
+1291,2024-10-17,Headphones,Accessories,19199351,4,Medan,Credit Card
+1292,2024-10-18,Laptop,Accessories,15605101,4,Medan,E-Wallet
+1293,2024-10-19,Laptop,Accessories,7521855,2,Medan,Debit Card
+1294,2024-10-20,Tablet,Accessories,18255255,3,Jakarta,Credit Card
+1295,2024-10-21,Tablet,Accessories,9788493,2,Medan,Credit Card
+1296,2024-10-22,Smartwatch,Electronics,9497354,4,Yogyakarta,Debit Card
+1297,2024-10-23,Smartwatch,Electronics,7852207,2,Surabaya,Credit Card
+1298,2024-10-24,Headphones,Accessories,17777092,3,Bandung,Debit Card
+1299,2024-10-25,Tablet,Accessories,2462165,3,Yogyakarta,Bank Transfer
+1300,2024-10-26,Laptop,Electronics,8485620,3,Yogyakarta,Debit Card
+1301,2024-10-27,Smartwatch,Accessories,1111213,1,Medan,Bank Transfer
+1302,2024-10-28,Smartwatch,Accessories,18045950,2,Jakarta,Debit Card
+1303,2024-10-29,Laptop,Electronics,16294998,4,Surabaya,E-Wallet
+1304,2024-10-30,Smartwatch,Accessories,4741361,4,Jakarta,E-Wallet
+1305,2024-10-31,Headphones,Accessories,2339433,4,Surabaya,Bank Transfer
+1306,2024-11-01,Tablet,Electronics,7069632,1,Surabaya,Bank Transfer
+1307,2024-11-02,Laptop,Electronics,19303796,1,Jakarta,E-Wallet
+1308,2024-11-03,Tablet,Electronics,13791666,3,Yogyakarta,Bank Transfer
+1309,2024-11-04,Smartwatch,Accessories,8007324,4,Surabaya,Debit Card
+1310,2024-11-05,Smartwatch,Electronics,6702258,1,Jakarta,Debit Card
+1311,2024-11-06,Laptop,Electronics,10380860,3,Surabaya,E-Wallet
+1312,2024-11-07,Headphones,Electronics,4026737,4,Bandung,Credit Card
+1313,2024-11-08,Smartphone,Electronics,9290529,2,Yogyakarta,Debit Card
+1314,2024-11-09,Laptop,Electronics,19286176,3,Medan,Bank Transfer
+1315,2024-11-10,Smartphone,Electronics,7418889,1,Surabaya,Credit Card
+1316,2024-11-11,Smartphone,Accessories,16323554,1,Bandung,Credit Card
+1317,2024-11-12,Headphones,Accessories,19215094,3,Medan,Debit Card
+1318,2024-11-13,Smartphone,Electronics,13290902,3,Medan,Debit Card
+1319,2024-11-14,Smartphone,Electronics,10973867,1,Surabaya,Credit Card
+1320,2024-11-15,Headphones,Electronics,11364147,2,Jakarta,Credit Card
+1321,2024-11-16,Smartphone,Accessories,6693956,4,Surabaya,E-Wallet
+1322,2024-11-17,Smartphone,Accessories,14079173,2,Bandung,Bank Transfer
+1323,2024-11-18,Smartphone,Accessories,2205215,3,Medan,E-Wallet
+1324,2024-11-19,Laptop,Accessories,15029416,2,Surabaya,Debit Card
+1325,2024-11-20,Laptop,Accessories,7771476,1,Jakarta,E-Wallet
+1326,2024-11-21,Laptop,Accessories,3766402,3,Surabaya,E-Wallet
+1327,2024-11-22,Headphones,Accessories,13989651,4,Yogyakarta,E-Wallet
+1328,2024-11-23,Smartwatch,Accessories,5999593,1,Jakarta,E-Wallet
+1329,2024-11-24,Smartphone,Accessories,14572989,1,Bandung,Bank Transfer
+1330,2024-11-25,Smartphone,Electronics,13626263,4,Medan,Bank Transfer
+1331,2024-11-26,Headphones,Electronics,4761946,4,Surabaya,Credit Card
+1332,2024-11-27,Smartphone,Electronics,17367309,2,Jakarta,Debit Card
+1333,2024-11-28,Laptop,Electronics,10444790,3,Yogyakarta,E-Wallet
+1334,2024-11-29,Smartwatch,Accessories,13300127,4,Jakarta,Credit Card
+1335,2024-11-30,Tablet,Accessories,10892287,4,Yogyakarta,Credit Card
+1336,2024-12-01,Smartphone,Electronics,14838768,3,Bandung,Credit Card
+1337,2024-12-02,Laptop,Accessories,2232465,4,Medan,Bank Transfer
+1338,2024-12-03,Tablet,Electronics,13609773,4,Bandung,E-Wallet
+1339,2024-12-04,Smartwatch,Accessories,11545415,2,Surabaya,E-Wallet
+1340,2024-12-05,Tablet,Electronics,15675617,1,Jakarta,Debit Card
+1341,2024-12-06,Laptop,Accessories,3359244,1,Yogyakarta,E-Wallet
+1342,2024-12-07,Tablet,Accessories,18163256,1,Yogyakarta,E-Wallet
+1343,2024-12-08,Headphones,Electronics,822918,1,Jakarta,Credit Card
+1344,2024-12-09,Tablet,Accessories,19523125,4,Jakarta,Debit Card
+1345,2024-12-10,Smartphone,Electronics,616739,3,Surabaya,E-Wallet
+1346,2024-12-11,Smartphone,Electronics,10175193,3,Bandung,Bank Transfer
+1347,2024-12-12,Headphones,Electronics,9668924,2,Yogyakarta,E-Wallet
+1348,2024-12-13,Laptop,Electronics,16485249,2,Surabaya,Credit Card
+1349,2024-12-14,Smartphone,Accessories,15516740,4,Bandung,Bank Transfer
+1350,2024-12-15,Smartwatch,Accessories,12378474,3,Surabaya,Credit Card
+1351,2024-12-16,Smartphone,Accessories,10255461,3,Yogyakarta,E-Wallet
+1352,2024-12-17,Smartphone,Electronics,1514929,1,Jakarta,Bank Transfer
+1353,2024-12-18,Laptop,Accessories,2920564,4,Jakarta,Debit Card
+1354,2024-12-19,Tablet,Electronics,11471177,4,Bandung,Debit Card
+1355,2024-12-20,Smartphone,Accessories,3153093,1,Medan,Bank Transfer
+1356,2024-12-21,Headphones,Accessories,13311416,4,Bandung,Bank Transfer
+1357,2024-12-22,Tablet,Accessories,7444121,4,Medan,Credit Card
+1358,2024-12-23,Smartwatch,Electronics,6738795,2,Surabaya,Bank Transfer
+1359,2024-12-24,Laptop,Accessories,14657398,3,Surabaya,Credit Card
+1360,2024-12-25,Smartwatch,Accessories,14172297,4,Yogyakarta,E-Wallet
+1361,2024-12-26,Tablet,Electronics,17993972,2,Medan,Credit Card
+1362,2024-12-27,Tablet,Accessories,7290968,3,Yogyakarta,Bank Transfer
+1363,2024-12-28,Tablet,Electronics,4251198,1,Jakarta,Bank Transfer
+1364,2024-12-29,Smartwatch,Accessories,16232903,2,Medan,E-Wallet
+1365,2024-12-30,Tablet,Electronics,3638145,2,Bandung,Bank Transfer
+1366,2024-12-31,Smartwatch,Electronics,1726476,3,Jakarta,Bank Transfer
+1367,2025-01-01,Tablet,Accessories,4684056,1,Jakarta,Debit Card
+1368,2025-01-02,Headphones,Electronics,9460820,2,Bandung,Debit Card
+1369,2025-01-03,Tablet,Electronics,15516390,4,Jakarta,E-Wallet
+1370,2025-01-04,Smartwatch,Electronics,13307049,4,Medan,Credit Card
+1371,2025-01-05,Smartphone,Electronics,2000844,4,Yogyakarta,Debit Card
+1372,2025-01-06,Tablet,Electronics,9817776,1,Jakarta,Credit Card
+1373,2025-01-07,Smartphone,Electronics,1900283,2,Medan,Bank Transfer
+1374,2025-01-08,Headphones,Accessories,14642073,4,Surabaya,Debit Card
+1375,2025-01-09,Laptop,Electronics,1191757,1,Medan,E-Wallet
+1376,2025-01-10,Headphones,Electronics,890719,4,Yogyakarta,E-Wallet
+1377,2025-01-11,Tablet,Accessories,10416545,3,Medan,E-Wallet
+1378,2025-01-12,Smartphone,Accessories,10038555,2,Bandung,Debit Card
+1379,2025-01-13,Smartphone,Accessories,16213642,2,Yogyakarta,Credit Card
+1380,2025-01-14,Smartwatch,Accessories,19395540,1,Surabaya,Bank Transfer
+1381,2025-01-15,Smartphone,Accessories,7327299,1,Bandung,Credit Card
+1382,2025-01-16,Smartwatch,Accessories,14079033,2,Medan,Credit Card
+1383,2025-01-17,Laptop,Accessories,5402666,4,Yogyakarta,Bank Transfer
+1384,2025-01-18,Tablet,Electronics,18153247,4,Surabaya,Bank Transfer
+1385,2025-01-19,Smartwatch,Electronics,6732739,3,Bandung,Debit Card
+1386,2025-01-20,Laptop,Accessories,1770896,4,Surabaya,Debit Card
+1387,2025-01-21,Smartphone,Electronics,12452314,1,Medan,Debit Card
+1388,2025-01-22,Smartphone,Electronics,1559622,1,Surabaya,Debit Card
+1389,2025-01-23,Laptop,Electronics,4922375,4,Jakarta,Debit Card
+1390,2025-01-24,Smartphone,Accessories,17270274,1,Bandung,Bank Transfer
+1391,2025-01-25,Laptop,Accessories,17655381,2,Surabaya,Credit Card
+1392,2025-01-26,Smartwatch,Electronics,4631479,2,Medan,Debit Card
+1393,2025-01-27,Smartwatch,Accessories,9900725,4,Medan,Debit Card
+1394,2025-01-28,Laptop,Electronics,17692224,2,Surabaya,Credit Card
+1395,2025-01-29,Smartwatch,Electronics,18909209,2,Medan,Debit Card
+1396,2025-01-30,Smartwatch,Electronics,3851278,3,Yogyakarta,Credit Card
+1397,2025-01-31,Smartwatch,Electronics,19619251,3,Yogyakarta,Credit Card
+1398,2025-02-01,Headphones,Accessories,6203394,2,Yogyakarta,Bank Transfer
+1399,2025-02-02,Tablet,Accessories,11915376,4,Jakarta,E-Wallet
+1400,2025-02-03,Smartphone,Accessories,18447581,3,Surabaya,Bank Transfer
+1401,2025-02-04,Headphones,Electronics,9568026,1,Jakarta,E-Wallet
+1402,2025-02-05,Smartwatch,Accessories,13783692,1,Medan,E-Wallet
+1403,2025-02-06,Laptop,Electronics,3221864,1,Jakarta,E-Wallet
+1404,2025-02-07,Smartwatch,Accessories,7484720,4,Medan,Debit Card
+1405,2025-02-08,Tablet,Electronics,14689784,2,Medan,Bank Transfer
+1406,2025-02-09,Smartwatch,Electronics,8233308,1,Bandung,E-Wallet
+1407,2025-02-10,Laptop,Electronics,4375754,4,Yogyakarta,Credit Card
+1408,2025-02-11,Tablet,Accessories,19982215,3,Medan,Debit Card
+1409,2025-02-12,Smartwatch,Accessories,18601286,2,Bandung,Bank Transfer
+1410,2025-02-13,Tablet,Accessories,11412996,3,Yogyakarta,E-Wallet
+1411,2025-02-14,Smartphone,Accessories,10547595,4,Medan,Credit Card
+1412,2025-02-15,Smartphone,Electronics,18939009,1,Medan,Bank Transfer
+1413,2025-02-16,Smartwatch,Accessories,7076651,1,Jakarta,Bank Transfer
+1414,2025-02-17,Tablet,Accessories,7367218,4,Jakarta,Debit Card
+1415,2025-02-18,Laptop,Electronics,9504644,1,Yogyakarta,Bank Transfer
+1416,2025-02-19,Smartwatch,Electronics,12280026,2,Medan,Debit Card
+1417,2025-02-20,Smartphone,Electronics,14463258,4,Surabaya,E-Wallet
+1418,2025-02-21,Smartphone,Accessories,5487696,3,Jakarta,Debit Card
+1419,2025-02-22,Smartwatch,Electronics,17706204,4,Yogyakarta,Credit Card
+1420,2025-02-23,Tablet,Electronics,4584752,2,Medan,Debit Card
+1421,2025-02-24,Smartphone,Electronics,13643608,2,Medan,Credit Card
+1422,2025-02-25,Tablet,Accessories,3477590,4,Surabaya,Debit Card
+1423,2025-02-26,Smartphone,Electronics,3797291,4,Yogyakarta,Bank Transfer
+1424,2025-02-27,Smartphone,Accessories,12691037,1,Medan,E-Wallet
+1425,2025-02-28,Headphones,Accessories,2990706,2,Jakarta,Credit Card
+1426,2025-03-01,Smartphone,Electronics,8547252,4,Surabaya,Debit Card
+1427,2025-03-02,Laptop,Electronics,5754224,4,Yogyakarta,Debit Card
+1428,2025-03-03,Smartwatch,Accessories,11380726,2,Surabaya,Debit Card
+1429,2025-03-04,Smartwatch,Electronics,19479791,4,Jakarta,Bank Transfer
+1430,2025-03-05,Tablet,Electronics,17741287,1,Yogyakarta,Bank Transfer
+1431,2025-03-06,Smartphone,Accessories,11063214,2,Surabaya,Credit Card
+1432,2025-03-07,Laptop,Accessories,14643385,1,Bandung,Credit Card
+1433,2025-03-08,Tablet,Electronics,2064718,1,Jakarta,Bank Transfer
+1434,2025-03-09,Headphones,Accessories,11023401,1,Jakarta,Credit Card
+1435,2025-03-10,Tablet,Electronics,10491183,1,Jakarta,E-Wallet
+1436,2025-03-11,Tablet,Electronics,14988262,2,Bandung,E-Wallet
+1437,2025-03-12,Smartphone,Electronics,4313270,1,Bandung,Bank Transfer
+1438,2025-03-13,Headphones,Accessories,5306425,1,Medan,Credit Card
+1439,2025-03-14,Tablet,Electronics,19656053,4,Surabaya,Debit Card
+1440,2025-03-15,Laptop,Electronics,6623769,2,Medan,E-Wallet
+1441,2025-03-16,Laptop,Electronics,2024102,2,Surabaya,Bank Transfer
+1442,2025-03-17,Smartwatch,Accessories,12079149,3,Bandung,Credit Card
+1443,2025-03-18,Headphones,Accessories,14824046,2,Bandung,Bank Transfer
+1444,2025-03-19,Headphones,Accessories,9552788,2,Medan,Debit Card
+1445,2025-03-20,Smartwatch,Accessories,19660582,3,Yogyakarta,E-Wallet
+1446,2025-03-21,Tablet,Accessories,2535848,2,Medan,Bank Transfer
+1447,2025-03-22,Headphones,Electronics,11328463,2,Surabaya,Bank Transfer
+1448,2025-03-23,Laptop,Accessories,10413841,2,Medan,Bank Transfer
+1449,2025-03-24,Laptop,Accessories,12856830,2,Jakarta,Debit Card
+1450,2025-03-25,Smartphone,Accessories,11957501,3,Surabaya,Bank Transfer
+1451,2025-03-26,Headphones,Electronics,1338003,2,Surabaya,Debit Card
+1452,2025-03-27,Tablet,Accessories,3933382,2,Yogyakarta,Debit Card
+1453,2025-03-28,Smartwatch,Accessories,9170178,3,Bandung,Debit Card
+1454,2025-03-29,Smartwatch,Electronics,3895049,4,Surabaya,E-Wallet
+1455,2025-03-30,Tablet,Accessories,17343366,1,Bandung,E-Wallet
+1456,2025-03-31,Smartphone,Electronics,7929645,4,Medan,Bank Transfer
+1457,2025-04-01,Smartwatch,Electronics,11322814,3,Jakarta,Bank Transfer
+1458,2025-04-02,Headphones,Electronics,15301890,1,Yogyakarta,E-Wallet
+1459,2025-04-03,Smartphone,Electronics,15014363,3,Bandung,Credit Card
+1460,2025-04-04,Headphones,Electronics,19824716,3,Surabaya,E-Wallet
+1461,2025-04-05,Laptop,Accessories,9888162,2,Bandung,Debit Card
+1462,2025-04-06,Smartphone,Electronics,4693060,1,Surabaya,E-Wallet
+1463,2025-04-07,Smartwatch,Electronics,17411271,2,Bandung,Debit Card
+1464,2025-04-08,Smartphone,Accessories,15670521,1,Surabaya,Bank Transfer
+1465,2025-04-09,Smartphone,Electronics,12767883,3,Medan,Credit Card
+1466,2025-04-10,Smartphone,Accessories,9584966,3,Surabaya,Bank Transfer
+1467,2025-04-11,Smartphone,Accessories,12484398,4,Surabaya,Debit Card
+1468,2025-04-12,Headphones,Accessories,2341648,1,Jakarta,Debit Card
+1469,2025-04-13,Laptop,Electronics,7632508,2,Surabaya,Debit Card
+1470,2025-04-14,Tablet,Electronics,15449772,4,Jakarta,Credit Card
+1471,2025-04-15,Smartphone,Electronics,4328433,4,Yogyakarta,E-Wallet
+1472,2025-04-16,Smartwatch,Accessories,14094639,4,Jakarta,Bank Transfer
+1473,2025-04-17,Smartphone,Electronics,7652747,2,Medan,Bank Transfer
+1474,2025-04-18,Smartwatch,Electronics,15290081,4,Jakarta,E-Wallet
+1475,2025-04-19,Headphones,Electronics,4637270,2,Yogyakarta,Bank Transfer
+1476,2025-04-20,Smartwatch,Accessories,4817922,4,Medan,Credit Card
+1477,2025-04-21,Tablet,Accessories,13004233,2,Bandung,Bank Transfer
+1478,2025-04-22,Laptop,Electronics,1520154,3,Bandung,Debit Card
+1479,2025-04-23,Smartwatch,Electronics,5445169,3,Jakarta,E-Wallet
+1480,2025-04-24,Smartwatch,Electronics,7233215,3,Jakarta,Credit Card
+1481,2025-04-25,Laptop,Electronics,12965759,3,Yogyakarta,E-Wallet
+1482,2025-04-26,Tablet,Accessories,8695810,3,Yogyakarta,Credit Card
+1483,2025-04-27,Smartphone,Accessories,7685197,4,Surabaya,Debit Card
+1484,2025-04-28,Smartwatch,Accessories,7214301,4,Yogyakarta,E-Wallet
+1485,2025-04-29,Laptop,Accessories,11692304,4,Surabaya,Bank Transfer
+1486,2025-04-30,Headphones,Electronics,15504124,2,Medan,Credit Card
+1487,2025-05-01,Laptop,Electronics,14729748,2,Jakarta,E-Wallet
+1488,2025-05-02,Headphones,Electronics,14324747,2,Medan,Bank Transfer
+1489,2025-05-03,Tablet,Accessories,11260888,2,Yogyakarta,E-Wallet
+1490,2025-05-04,Smartphone,Electronics,11805231,3,Medan,E-Wallet
+1491,2025-05-05,Laptop,Accessories,11874857,3,Medan,E-Wallet
+1492,2025-05-06,Smartwatch,Accessories,16409784,3,Medan,Credit Card
+1493,2025-05-07,Tablet,Electronics,2359582,1,Yogyakarta,Bank Transfer
+1494,2025-05-08,Laptop,Electronics,14275236,4,Medan,Debit Card
+1495,2025-05-09,Smartwatch,Electronics,19407101,2,Surabaya,Credit Card
+1496,2025-05-10,Laptop,Accessories,14872528,2,Yogyakarta,Credit Card
+1497,2025-05-11,Headphones,Electronics,5220642,3,Medan,Credit Card
+1498,2025-05-12,Laptop,Accessories,13641133,2,Yogyakarta,Debit Card
+1499,2025-05-13,Laptop,Electronics,1049239,2,Bandung,Bank Transfer
+1500,2025-05-14,Laptop,Accessories,5908753,4,Surabaya,Bank Transfer
