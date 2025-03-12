@@ -29,7 +29,7 @@ Welcome to **my data analysis projects portfolio!** In this repository, I collec
 - Generating insights into customer review patterns.
 - Visualize data using **Power BI**
 
-### 5. 🗂️ [Analysis Bank Transaction Data](https://github.com/mokojalpad/Data-Analysis-Portofolio/blob/main/P4%20-%20Bank%20Transaction/Collect_Manipulate.sql)
+### 5. 🗂️ [Analysis Bank Transaction Data](https://github.com/mokojalpad/Data-Analysis-Portofolio/blob/main/P4%20-%20Bank%20Transaction/Collect_Manipulate.sql) **On Process**
 
 - Dataset source: https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection by [Vala Khorasani](https://www.kaggle.com/valakhorasani)
 - Use **Mysql** to collect and manipulate data then export it. And use **Excel** to merge headers and data from the sql export results.
